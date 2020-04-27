@@ -4,10 +4,10 @@
  * All database connection variables
  */
 
-define('DB_USER',"freechaq_netflix"); // db user
-define('DB_PASSWORD',"netflix"); // db password (mention your db password here)
-define('DB_DATABASE',"freechaq_netflixnew"); // database name
-define('DB_SERVER',"localhost"); // db server
+define('DB_USER',"g1796r0pdbp0evda"); // db user
+define('DB_PASSWORD',"fi71ybg8m50l646r"); // db password (mention your db password here)
+define('DB_DATABASE',"ux5qqp60dzs5cfmn"); // database name
+define('DB_SERVER',"un0jueuv2mam78uv.cbetxkdyhwsb.us-east-1.rds.amazonaws.com"); // db server
 
 define('PURCHAGECODE',"XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX"); // your purchage code (if you dont have this contact me on primeflix6533@gmail.com)
 define('PAYTM_MERCHANT_KEY', 'gpa!5Gp07!7R01n7');
